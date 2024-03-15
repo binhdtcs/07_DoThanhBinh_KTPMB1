@@ -2,7 +2,9 @@
 using namespace std;
 int main{
 
-cout << "Hello";
+cout << "Hello" << endl;
+cout << "Hello" << endl;
+cout << "Hello" << endl;
 system("pause");
 return 0;
 }
